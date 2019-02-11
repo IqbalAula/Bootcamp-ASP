@@ -100,6 +100,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="Content\sweetalert.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -111,11 +112,15 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.sweet-alert.custom.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\sweetalert-dev.js" />
+    <Content Include="Scripts\sweetalert.min.js" />
+    <Content Include="Scripts\SweetDelete.js" />
     <Content Include="Web.config" />
     <Content Include="Views\Suppliers\Create.cshtml" />
     <Content Include="Views\Suppliers\Edit.cshtml" />
@@ -140,6 +145,10 @@
     <Compile Include="Migrations\201902070746117_AddItemModel.Designer.cs">
       <DependentUpon>201902070746117_AddItemModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201902080147247_Updatenot.cs" />
+    <Compile Include="Migrations\201902080147247_Updatenot.Designer.cs">
+      <DependentUpon>201902080147247_Updatenot.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Item.cs" />
     <Compile Include="Models\Supplier.cs" />
@@ -153,6 +162,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Suppliers\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Items\Edit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -169,6 +179,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201902070746117_AddItemModel.resx">
       <DependentUpon>201902070746117_AddItemModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201902080147247_Updatenot.resx">
+      <DependentUpon>201902080147247_Updatenot.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
