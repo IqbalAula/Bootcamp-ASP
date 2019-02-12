@@ -72,10 +72,8 @@ D:\Bootcamp22\Bootcamp-ASP\BootcampASP\bin\System.Web.Webpages.Deployment.xml
 D:\Bootcamp22\Bootcamp-ASP\BootcampASP\bin\System.Web.Webpages.Razor.xml
 D:\Bootcamp22\Bootcamp-ASP\BootcampASP\bin\System.Web.Helpers.xml
 D:\Bootcamp22\Bootcamp-ASP\BootcampASP\bin\System.Web.Mvc.xml
-D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.csprojResolveAssemblyReference.cache
-D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.Migrations.AddFirstModel.resources
-D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.Migrations.AddItemModel.resources
-D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.Migrations.Updatenot.resources
+D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.Migrations.AddTransactionsAndTransactionItems.resources
 D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.csproj.GenerateResource.Cache
 D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.dll
 D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.pdb
+D:\Bootcamp22\Bootcamp-ASP\BootcampASP\obj\Debug\BootcampASP.csprojResolveAssemblyReference.cache
